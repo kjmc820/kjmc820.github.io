@@ -1,7 +1,7 @@
 ---
+layout: single
 title: "About"
 permalink: /about/
-author_profile: true
 ---
 
 I'm a Web Developer. Previously, I worked alongside a small team in Valenzuela in creating web sites and apps for various clients. My aim was to developed sites and apps that would represent our client's personality, message, and mission. The tools I have used in development was HTML, CSS, Javascript, PHP, MySQL, AngularJS, Laravel, and Foundation Framework.
